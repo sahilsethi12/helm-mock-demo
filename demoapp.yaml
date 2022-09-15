@@ -1,0 +1,7 @@
+database:
+  volume:
+    storageClassName: gp2
+  deployment:
+    name: customdatabase
+application:
+  name: demoapp
