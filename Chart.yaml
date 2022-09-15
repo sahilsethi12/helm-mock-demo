@@ -1,4 +1,4 @@
-apiVersion: v1
+apiVersion: v2
 name: demoapplication
 description: DEMO helm chart application 
 
