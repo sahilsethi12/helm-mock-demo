@@ -9,7 +9,7 @@ database:
     name: customdatabase
 application:
   name: demoapp
-  replicas: 2
+  replicas: 1
 
 
 
